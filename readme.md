@@ -17,7 +17,7 @@
 
 ## D. 프로젝트 개발 결과물 소개
 
-[최종 결과물]
+[최종 결과물]<br/>
 <img src="./readme_src/Result.png" width=600px>
 
 리눅스 실행파일이 하나 만들어지게 된다. <br/>
@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-[다이어그램]
+[다이어그램]<br/>
 <img src="./readme_src/Diagram.png" width=600px>
 
 프로그램은 다음과 같은 흐름으로 동작한다.
